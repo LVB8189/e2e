@@ -22,3 +22,4 @@ after (function () {
   global.browser = globalVariables.browser;
   global.expect = globalVariables.expect;
 });
+
